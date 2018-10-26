@@ -1,0 +1,8 @@
+$$$sadfsadf
+    akbar = 'Asghar'
+    aghdas = 22
+    return aghdas
+if(akbar!=5):
+    print("10")
+else:
+    print(aghdas)
